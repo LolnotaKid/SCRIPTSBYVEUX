@@ -1,0 +1,18 @@
+--[[
+HOLLOW PURPLE:
+
+- AIR WELD:
+  • Mobile: Double Tap
+  • PC: Press F
+
+- HOLLOW PURPLE ATTACK:
+  • Works only with Shotgun
+
+FOR THIRD PERSON:
+
+- Use Nameless Admin
+- Type the command: thirdperson
+- Then zoom out
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/SCRIPTSBYVEUX/refs/heads/main/LALALALALALAGOJOOO.lua.txt"))()
